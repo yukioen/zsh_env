@@ -1,4 +1,0 @@
-#!/bin/zsh
-
-echo $HOME
-cp ./.zshrc $HOME/.zshrc
